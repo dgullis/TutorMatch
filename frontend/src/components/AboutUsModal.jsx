@@ -3,7 +3,6 @@ import { Modal, Button } from "react-bootstrap";
 
 export const AboutUsModal = ({showAboutModal, toggleAboutModal}) => {
 
-    
     return (
 
         <>
